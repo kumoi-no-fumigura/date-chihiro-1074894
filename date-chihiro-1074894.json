@@ -3,13 +3,13 @@
  "work_id": "date-chihiro-1074894",
  "repo": "kumoi-no-fumigura/date-chihiro-1074894",
  "yomi": "みつのやまぶみ",
- "category": "近代歌集",
+ "category": "紀行",
  "kind": "prose",
  "description": {
-  "kind": "近代歌集",
-  "era": "昭和時代",
-  "author": "伊達千広・井上豊太郎",
-  "desc": "伊達千広・井上豊太郎の歌集（1936 年刊）。"
+  "kind": "紀行",
+  "era": "江戸時代",
+  "author": "伊達千広",
+  "desc": "熊野三山（本宮・新宮・那智）を巡る旅を、歌と文で記す。伊達千広の作で、井上豊太郎が註を付けた昭和 11 年（1936 年）刊の版による。註・古文の引用が多く入る。"
  },
  "editions": [
   {
@@ -983,9 +983,9 @@
   "work_id": "date-chihiro-1074894",
   "work": "三つの山踏み",
   "yomi": "みつのやまぶみ",
-  "category": "近代歌集",
-  "era": "昭和時代",
-  "author": "伊達千広・井上豊太郎",
+  "category": "紀行",
+  "era": "江戸時代",
+  "author": "伊達千広",
   "kind": "prose",
   "blocks": 59,
   "chars": 35225,
@@ -993,6 +993,6 @@
   "yaku": 59,
   "editions": 1,
   "updated": "2026-11-22",
-  "updated_at": "2026-11-22T16:02:29+09:00"
+  "updated_at": "2026-11-22T16:03:52+09:00"
  }
 }
